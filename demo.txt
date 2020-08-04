@@ -1,1 +1,3 @@
 pierwszy wpis
+
+drugi wpis
